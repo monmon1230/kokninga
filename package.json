@@ -1,0 +1,14 @@
+{
+  "name": "kokninga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kokninga.js",
+  "scripts": {
+    "start": "nodemon kokninga.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
